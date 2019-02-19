@@ -1,3 +1,3 @@
-# Agentes -  apenas os .py
-
-# https://youtu.be/dD7ENP6I72I
+# Agents and environments
+Activity related to the discipline of Artificial Intelligence
+(2018)
